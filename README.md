@@ -4,7 +4,7 @@ This is an extension for export a network to a graph6 format file.
 
 ## Usage
 
-### Primitive `save-graph6`
+#### Primitive `save-graph6`
 
 `graph6:save-graph6 turtle-set link-set file-name`
 
